@@ -1,3 +1,4 @@
+// required imports
 import java.util.Scanner;
 
 /**
