@@ -21,6 +21,17 @@ Java 8+
 javac AncientCircus.java
 java AncientCircus
 ```
+then give input -- 3 lines, each of them having two decimal points.
+
+Example
+
+```
+javac AncientCircus.java
+java AncientCircus
+0.000000 0.000000
+1.000000 1.000000
+0.000000 1.000000
+```
 
 # Example outcome
 
