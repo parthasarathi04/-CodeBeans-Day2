@@ -17,8 +17,10 @@ You are given the coordinates of these three pillars. Find out what is the small
 Java 8+
 
 # Run
+```
 javac AncientCircus.java
 java AncientCircus
+```
 
 # Example outcome
 
